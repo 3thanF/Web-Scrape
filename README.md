@@ -35,10 +35,8 @@ Contributions to this project are welcome! Please follow these steps to contribu
 3. Commit and push your changes.
 4. Create a pull request.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [YourLinkedInProfile](YourLinkedInURL)
+- **LinkedIn**: [Ethan Fallas](https://www.linkedin.com/in/ethan-fallas?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb%2Bt9UfZAQgatfJfXUUDIyA%3D%3D)
+- **GitHub**: [3thanF](https://github.com/3thanF)
+- **Email**: [3thanfaso03@gmail.com](mailto:3thanfaso03@gmail.com)
