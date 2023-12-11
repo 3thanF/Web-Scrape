@@ -3,8 +3,7 @@
 ## Project Overview
 This project uses R to perform web scraping and text analysis on product reviews from Amazon. The script `R-Script.R` navigates to a product review page, extracts review titles, and performs text processing to identify frequently occurring words. This analysis is visualized using `ggplot2`, offering insights into common themes in product reviews.
 
-![Text Analysis Visualization](path/to/your/text-analysis-visualization.jpg)
-*Visualization of Top 10 Words in Product Reviews.*
+![Text Analysis Visualization](https://github.com/3thanF/Web-Scrape/blob/main/Graph.png)
 
 ## Features
 - Web scraping with `rvest` to extract product review titles from Amazon.
